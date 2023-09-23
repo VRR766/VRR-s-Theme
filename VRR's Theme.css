@@ -1,0 +1,65 @@
+/**
+ * @name VRR's Theme
+ * @author VRR766
+ * @version 2.0.0
+ * @description Made By: VRR Bitch Hehe.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/xfKjZqz.jpg');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/SzyqjO0.jpg');
+  --popout-image-blur: 3px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/6M8RvwF.jpg');
+  --overlay-image-blur: 3px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/JCqMzXP.jpg');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.52;
+  --left-brightness: 0.74;
+  --middle-brightness: 0.72;
+  --right-brightness: 0;
+  --overlay-brightness: 0.6;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 0,127,255;
+  --link-colour: #FF0000;
+  --scrollbar-colour: rgb(0,0,0,0.05);
+  --gradient-direction: 227deg;
+  --tint-colour: 0,157,255;
+  --tint-brightness: 0;
+  --font: Open Sans;
+  --window-padding: 9px;
+  --window-roundness: 20px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 1;
+  --aligndms: 0;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 5px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+
